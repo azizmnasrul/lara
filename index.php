@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
         // tes.php
         //coba git vscode
+        //pull from github
         ?>
     </body>
 </html>
